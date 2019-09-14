@@ -1,0 +1,12 @@
+Le répertoire contient des images dont les noms suivent les conventions
+suivantes :
+
+- tm?-complete.jpg    : une énigme complète avec l'image et les objets
+- tm?-image.jpg       : seulement l'image de l'énigme
+- tm?-1.jpg ...       : les six objets de l'énigme dans six fichiers différents
+
+Quelques images supplémentaires pour déboguer:
+tm1-image-crop4.jpg : la portion de l'image 1 contenant l'objet 4
+tm4-image-crop1.jpg : la portion de l'image 4 contenant l'objet 1
+tm4-image-crop2.jpg : la portion de l'image 4 contenant l'objet 2
+tm4-image-crop5.jpg : la portion de l'image 4 contenant l'objet 5
